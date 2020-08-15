@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // Add the 3 lines from here...
         primarySwatch: Colors.white10,
-        accentColor: Colors.red,
       ),
       home: RandomWords(),
     );
